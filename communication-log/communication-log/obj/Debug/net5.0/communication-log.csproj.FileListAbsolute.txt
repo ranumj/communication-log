@@ -19,6 +19,10 @@ E:\C# Projects\communication-log\communication-log\communication-log\bin\Debug\n
 E:\C# Projects\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.dll
 E:\C# Projects\communication-log\communication-log\communication-log\bin\Debug\net5.0\ref\communication-log.dll
 E:\C# Projects\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.pdb
+<<<<<<< HEAD
+=======
+E:\C# Projects\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.csproj.AssemblyReference.cache
+>>>>>>> 284066e14849d2be8cc374a31440712e3ab0daad
 E:\C# Projects\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.GeneratedMSBuildEditorConfig.editorconfig
 E:\C# Projects\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.AssemblyInfoInputs.cache
 E:\C# Projects\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.AssemblyInfo.cs
