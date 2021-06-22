@@ -12,18 +12,18 @@
 /Users/hunterhrab/Projects/communication-log/communication-log/communication-log/obj/Debug/net5.0/ref/communication-log.dll
 /Users/hunterhrab/Projects/communication-log/communication-log/communication-log/obj/Debug/net5.0/communication-log.pdb
 /Users/hunterhrab/Projects/communication-log/communication-log/communication-log/obj/Debug/net5.0/communication-log.genruntimeconfig.cache
-E:/C# Projects/communication-log/communication-log/communication-log/bin/Debug/net5.0/communication-log.exe
-E:/C# Projects/communication-log/communication-log/communication-log/bin/Debug/net5.0/communication-log.deps.json
-E:/C# Projects/communication-log/communication-log/communication-log/bin/Debug/net5.0/communication-log.runtimeconfig.json
-E:/C# Projects/communication-log/communication-log/communication-log/bin/Debug/net5.0/communication-log.runtimeconfig.dev.json
-E:/C# Projects/communication-log/communication-log/communication-log/bin/Debug/net5.0/communication-log.dll
-E:/C# Projects/communication-log/communication-log/communication-log/bin/Debug/net5.0/ref/communication-log.dll
-E:/C# Projects/communication-log/communication-log/communication-log/bin/Debug/net5.0/communication-log.pdb
-E:/C# Projects/communication-log/communication-log/communication-log/obj/Debug/net5.0/communication-log.GeneratedMSBuildEditorConfig.editorconfig
-E:/C# Projects/communication-log/communication-log/communication-log/obj/Debug/net5.0/communication-log.AssemblyInfoInputs.cache
-E:/C# Projects/communication-log/communication-log/communication-log/obj/Debug/net5.0/communication-log.AssemblyInfo.cs
-E:/C# Projects/communication-log/communication-log/communication-log/obj/Debug/net5.0/communication-log.csproj.CoreCompileInputs.cache
-E:/C# Projects/communication-log/communication-log/communication-log/obj/Debug/net5.0/communication-log.dll
-E:/C# Projects/communication-log/communication-log/communication-log/obj/Debug/net5.0/ref/communication-log.dll
-E:/C# Projects/communication-log/communication-log/communication-log/obj/Debug/net5.0/communication-log.pdb
-E:/C# Projects/communication-log/communication-log/communication-log/obj/Debug/net5.0/communication-log.genruntimeconfig.cache
+E:\C# Projects\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.exe
+E:\C# Projects\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.deps.json
+E:\C# Projects\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.runtimeconfig.json
+E:\C# Projects\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.runtimeconfig.dev.json
+E:\C# Projects\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.dll
+E:\C# Projects\communication-log\communication-log\communication-log\bin\Debug\net5.0\ref\communication-log.dll
+E:\C# Projects\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.pdb
+E:\C# Projects\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.AssemblyInfoInputs.cache
+E:\C# Projects\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.AssemblyInfo.cs
+E:\C# Projects\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.csproj.CoreCompileInputs.cache
+E:\C# Projects\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.dll
+E:\C# Projects\communication-log\communication-log\communication-log\obj\Debug\net5.0\ref\communication-log.dll
+E:\C# Projects\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.pdb
+E:\C# Projects\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.genruntimeconfig.cache
