@@ -11,6 +11,7 @@ namespace communication_log
             Console.WriteLine("Hello control!");
             Console.WriteLine("Wow it's actually working!");
             Console.WriteLine("Just wait until Microsoft sees this! We're basically engineers now.");
+            Console.WriteLine("Branch will be updated");
         }
     }
 }
